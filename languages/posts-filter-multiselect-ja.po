@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Posts filter multiselect\n"
+"POT-Creation-Date: 2017-08-03 13:32+0900\n"
+"PO-Revision-Date: 2022-04-07 20:07:09+09:00\n"
+"Last-Translator: adminwp <takenori.matsuura@gmail.com>\n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poppoppoo/0.8.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: posts-filter-multiselect.php\n"
+
+#: posts-filter-multiselect.php:819
+msgid "Modified"
+msgstr "更新日時"
+
+#: @:Name
+msgid "Posts filter multiselect"
+msgstr ""
+
+#: @:Description
+msgid "Each pull-down menu on the post list page will be changed from single selection to multiple selection. Also, tags and author filters will be added to allow you to narrow down your search."
+msgstr "投稿一覧ページの各プルダウンメニューを単一選択から複数選択に変更します。また、投稿タグおよび投稿者フィルターを追加し、それらの絞り込みを可能にします。"
+
+#: posts-filter-multiselect.php:775
+msgid "All Authors"
+msgstr "すべての投稿者"
+
+#: posts-filter-multiselect.php:751
+msgid "? Unknown %d"
+msgstr "? 不明 %d"
+
+#: posts-filter-multiselect.php:711
+msgid "Filter by tag"
+msgstr "タグで絞り込む"
+
+#: posts-filter-multiselect.php:773
+msgid "Filter by author"
+msgstr "投稿者で絞り込む"
+
+#: posts-filter-multiselect.php:176
+#~ msgid "Select all"
+#~ msgstr ""
+
+#: posts-filter-multiselect.php:177
+#~ msgid "Deselect"
+#~ msgstr ""
+
+#: posts-filter-multiselect.php:258
+#~ msgid "Filter by tag"
+#~ msgstr ""
+
+#: posts-filter-multiselect.php:306
+#~ msgid "Y/m/d g:i:s a"
+#~ msgstr ""
+
+#: posts-filter-multiselect.php:310
+#, php-format
+#~ msgid "%s ago"
+#~ msgstr ""
+
+#: posts-filter-multiselect.php:312
+#~ msgid "Y/m/d"
+#~ msgstr ""
+
+#: @:Description
+#~ msgid "Change each pull-down menu on the post list page from single selection to multiple selection."
+#~ msgstr "投稿リストページの各プルダウンメニューを単一選択から複数選択に変更します。"
